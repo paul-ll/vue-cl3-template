@@ -1,6 +1,6 @@
 module.exports = {
 
-    title: '宝马xx后台管理系统',
+    title: '宝马xx系统',
   
     /**
      * @type {boolean} true | false
